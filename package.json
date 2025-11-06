@@ -1,0 +1,18 @@
+{
+  "name": "base-site",
+  "version": "2.0.5",
+  "description": "base de site com banco de dados mongoDB By, indiuzin",
+  "license": "ISC",
+  "author": "indiuzin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.0"
+  }
+}
